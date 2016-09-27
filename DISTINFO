@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+ARCH=amd64
+OSVERSION=10.1
+OSRELEASE="${OSVERSION}-RELEASE"
+DISTFILES="base.txz lib32.txz"
